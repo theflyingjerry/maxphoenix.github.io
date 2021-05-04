@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<style>
-    @media (max-width: 400px){
-    .project-tile{
-        height: 200px
-    }
-}
-</style>
 <html>
     <head>
         <script src="https://kit.fontawesome.com/3050c63a99.js"
